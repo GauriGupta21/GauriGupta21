@@ -37,3 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauriGupta21&show_icons=true&locale=en" alt="GauriGupta21" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GauriGupta21&" alt="GauriGupta21" /></p>
